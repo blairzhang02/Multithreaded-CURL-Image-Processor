@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/b386zhan/G_203_9/lab3'
+gcc       -o paster2  -lcurl  -lz -pthread -g  -std=gnu99  
+make: Leaving directory '/home/b386zhan/G_203_9/lab3'
+ 
